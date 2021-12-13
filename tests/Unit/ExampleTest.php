@@ -15,8 +15,4 @@ class ExampleTest extends TestCase
     {
         $this->assertTrue(true);
     }
-    public function test_model_generation()
-    {
-        $this->assertTrue(true);
-    }
 }
